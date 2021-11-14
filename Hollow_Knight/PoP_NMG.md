@@ -13,6 +13,7 @@ The objective for this category is to beat the Path of Pain from a fresh save fi
 ## Notation
 
 Numbers in brackets ("[" and "]") denote target *geo* amounts. E.g. [200]
+
 Numbers in braces ("{" and "}") denote target *essence* amounts. E.g. {1600}
 
 ## The Route
