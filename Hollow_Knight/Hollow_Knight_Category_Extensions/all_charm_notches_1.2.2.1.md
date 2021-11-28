@@ -2,84 +2,116 @@ Source: https://pastebin.com/raw/GFveQwUd
 Jeff Route (1221 Route)
 ===
 
-All Charm Notches (1.2.2.1)
-Goal: Obtain all 8 extra notches (11 total)
-Routing by jeffisepic, with liberal borrowing from the CP route by Quacksilver, Mathulu, and Paum
-[Running Geo](Charms)
-Note: running geo is static sources, you'll pick up random geo throughout the run, and there are a few places where needed numbers are listed, if you don't have that amount by then then kill stuff, but you should have enough basically every time
+# Hollow Knight - Category Extensions - All Charm Notches (1.2.2.1)
+
+This Path of Pain% route is based on the document found at https://pastebin.com/raw/GFveQwUd.
+
+## Credits
+
+* jeffisepic, with liberal borrowing from the CP route by Quacksilver, Mathulu, and Paum
+* TopHatLuke (for conversion to markdown in this document, and minor rewording)
+
+## Route Objective
+
+The objective for this category is to obtain all 8 extra notches (11 total).
+
+## Notation
+
+  Numbers in brackets ("[" and "]") denote target *geo* amounts. E.g. [200]
+
+  Numbers in parentheses ("(" and ")") denote target number of charms. E.g. (12)
+
+  Numbers in braces ("{" and "}") denote target *essence* amounts. E.g. {1600}
+
+  Note: running geo is static sources, you'll pick up random geo throughout the run, and there are a few places where needed numbers are listed, if you don't have that amount by then then kill stuff, but you should have enough basically every time.
+
+## The Route
 
 
-Vengeful Spirit
-	>Exit KP, take 2 steps for hard save
-	>Geo rock before Fury [10 min]
-	>Fury of the Fallen (1)
-	>S+Q
-	>Well geo rock+husk [32-37]
-	>Aspid arena geo [min 50]
-	>Open Crossroads Stag [0+]
-	>Bench and equip Fury
-	>Kill False Knight, get City Crest [200]
-	>Optimal: Fury False Knight
-	>Vengeful Spirit
+### Vengeful Spirit
+* Exit `King's Pass`, taking 2 steps for hard save, and re-enter KP
+* Obtain `Geo rock` before `Fury` [10]
+* Obtain `Fury of the Fallen` (1)
+* S&Q - *Outside King's Pass*
+* Obtain `Geo rock` under the Well and defeat the nearby `husk` [32-37]
+* Aspid arena geo [50+]
+* Open `Crossroads Stag` [0+]
+* `Bench` at *Crossroads Stag*
+* Equip `Fury of the Fallen`
+* Defeat `False Knight`
+  * Optimal: Be in `Fury` state
+* Obtain `City Crest` [200]
+* Obtain `Vengeful Spirit`
 
-Mothwing Cloak
-	>Elder Baldur [225]
-	>Soul Catcher (2)
-	>Optimal: Overcharm Fury+Soul Catcher
-	>6 hits before Greenpath
-	>Baldur quick kill [275]
-	>3 easy fireball skips
-	>Moss Knight [315]
-	>Open Greenpath Stag [175]
-	>Hornet 1, Mothwing Cloak
-	>Optimal: Fury Hornet
-	>S+Q
+### Mothwing Cloak
+* Defeat `Elder Baldur` [225]
+* Obtain `Soul Catcher` (2)
+* `Bench` at *Ancestral Mound*
+  * Optimal: Overcharm `Fury`+`Soul Catcher`
+* Head toward `Greenpath`, getting *6 hits* for soul
+* Defeat `Elder Baldur` with quick kill [275]
+* Continue through `Greenpath`. Use fireball skips for great justice.
+* Defeat `Moss Knight` [315]
+* Open `Greenpath Stag` [175]
+* Defeat `Hornet`
+  * Optimal: Be in `Fury` state
+* Obtain `Mothwing Cloak`
 
-Mantis Claw
-	>Shrumal Ogres Notch [265]
-	>E-pogo to claw
-	>Mantis Claw
+### S&Q - *Ancestral Mound*
 
-Soul Sanctum
-	>Grab Journal above Mantis Village
-	>Enter City of Tears via City Crest
-	>Grab rafters Hallownest Seal
-	>Open shortcut, sell to Lemm [915]
-	>Lever skip out of elevator
-	>Enter Sanctum
-	>Lever skip to right side Sanctum
-	>Hell Room
-	>Spell Twister (3)
-	>Soul Master, Desolate Dive
-	>Optimal: Fury Soul Master
-	>Sanctum geo chest [1295]
-	>Sanctum Hallownest Seal
-	>Exit Sanctum via shortcut below Shade Soul
+### Mantis Claw
+* Defeat `Shrumal Ogres`
+* Obtain `Charm Notch` from Ogres [265]
+* `E-pogo` into *Mantis Village*
+* Obtain `Mantis Claw`
 
-Crystal Heart
-	>Grab Simple Key on way to Storerooms Stag
-	>City Storerooms Stag [1095]
-	>Stag to Crossroads and Bench
-	>Equip Spell Twister+Soul Catcher
-	>Peaks via dive entrance
-	>Shopkeeper's Key
-	>Open shortcut before Crystal Heart Room
-	>Crystal Heart
-	>Go back through shortcut toward Deep Focus
-	>Deep Focus (4)
-	>King's Idol above Cornifer
-	>Open Dirtmouth Elevator
-	>S+Q
+### Soul Sanctum
+* Obtain `Wanderer's Journal` above *Mantis Village*
+* Enter `City of Tears` via City Crest
+* Obtain `Hallownest Seal` from rafters
+* Open elevator shortcut near *Lemm*
+* Sell items to `Lemm` [915]
+* Lever skip out of elevator
+* Enter `Sanctum`
+* `Lever skip` to right side Sanctum
+* Obtain `Spell Twister` (3)
+* Defeat `Soul Master`
+  * Optimal: Be in `Fury` state
+* Obtain `Desolate Dive`
+* Obtain `Geo chest` [1295]
+* Obtain `Hallownest Seal`
+* `Exit Sanctum` via shortcut near *Shade Soul*
 
-Dream Nail
-	>Gruz Mother [1159]
-	>Save Sly
-	>Salubra Shaman Stone+Notch [819] (5)
-	>Crystal Dash to Blue Lake and across
-	>Dream Nail
-	>Open Resting Grounds Stag
-	>Dreamshield (6)
-	>S+Q
+### Crystal Heart
+* Obtain `Simple Key` on way to *Storerooms Stag*
+* Open `City Storerooms Stag` [1095]
+* `Stag` to *Crossroads*
+* `Bench` at *Crossroads Stag*
+* Equip `Spell Twister`+`Soul Catcher`
+* Enter `Crystal Peak` via *dive entrance*
+* Obtain `Shopkeeper's Key`
+* Open shortcut before Crystal Heart Room
+* Obtain `Crystal Heart`
+* Head west, through shortcut toward *Deep Focus*
+* Obtain `Deep Focus` (4)
+* Obtain `King's Idol` above *Cornifer*
+* Open `Dirtmouth Elevator`
+
+### S&Q - *Crossroad's Stag*
+
+### Dream Nail
+* Defeat `Gruz Mother` [1159]
+* Save `Sly`
+* Visit `Salubra`
+* Buy `Shaman Stone`+`Charm Notch` [819] (5)
+* `Crystal Dash` to - and across - *Blue Lake*
+* Obtain `Dream Nail`
+* Open `Resting Grounds Stag`
+* Obtain `Dreamshield` (6)
+
+### S&Q - *Crossroads Stag*
+
+># Note: This is a work-in-progress!
 
 Shade Soul
 	>Equip Shaman Stone+Spell Twister
